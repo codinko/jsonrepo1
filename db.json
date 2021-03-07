@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hotel1",
+      "category": "restaurant",
+      "comments": "good one"
+    },
+    {
+      "id": 2,
+      "name": "hotel2",
+      "category": "restaurant",
+      "comments": "good one"
+    },
+    {
+      "id": 3,
+      "name": "hotel3",
+      "category": "restaurant",
+      "comments": "good one"
+    }
+  ]
+}
